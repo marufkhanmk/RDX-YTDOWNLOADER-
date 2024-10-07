@@ -30,7 +30,8 @@
 
 ---
 
-### Installation [Termux]
+### Installation 
+###[Termux]
   ```bash
    yes | pkg up
    pkg install git
@@ -49,6 +50,18 @@
 git clone https://github.com/marufkhanmk/RDX-YTDOWNLOADER-.git
 cd RDX-YTDOWNLOADER-
 
+```
+### Linux/Unix
+```bash
+apt-get update && upgrade -y -y
+apt-get install git wget
+apt-get install python
+```
+**Now clone git repository
+```bash
+git clone git clone https://github.com/marufkhanmk/RDX-YTDOWNLOADER-.git
+cd RDX-YTDOWNLOADER-
+chmod +x *
 ```
 ### Usage
 
