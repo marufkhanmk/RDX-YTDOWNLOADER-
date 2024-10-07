@@ -35,7 +35,7 @@
    termux-setup-storage
   ```
 1. Install [Python]
-2. ```bash
+2.  ```bash
    pkg install python
    pip install yt-dlp
    pip install pytube
