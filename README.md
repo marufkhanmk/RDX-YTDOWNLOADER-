@@ -30,11 +30,15 @@
 
 ---
 
-### Installation
-
+### Installation [Termux]
+1. ```bash
+   termux-setup-storage
+  ```
 1. Install [Python]
 2. ```bash
    pkg install python
+   pip install yt-dlp
+   pip install pytube
    ```
 3. Clone the repository & run the setup commands.
 
