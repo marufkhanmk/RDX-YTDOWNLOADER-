@@ -31,16 +31,16 @@
 ---
 
 ### Installation [Termux]
-1. ```bash
+ ```bash
    termux-setup-storage
-  ```
+   ```
 1. Install [Python]
-2.  ```bash
+   ```bash
    pkg install python
    pip install yt-dlp
    pip install pytube
    ```
-3. Clone the repository & run the setup commands.
+2. Clone the repository & run the setup commands.
 
 ```bash
 git clone https://github.com/marufkhanmk/RDX-YTDOWNLOADER-.git
