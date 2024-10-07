@@ -31,7 +31,10 @@
 ---
 
 ### Installation [Termux]
- ```bash
+  ```bash
+   yes | pkg up
+   pkg install git
+   pkg install wget
    termux-setup-storage
    ```
 1. Install [Python]
