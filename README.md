@@ -32,13 +32,16 @@
 
 ### Installation
 
-1. Install [Node.js](https://nodejs.org).
-2. Clone the repository & run the setup commands.
+1. Install [Python]
+2. ```bash
+   pkg install python
+   ```
+3. Clone the repository & run the setup commands.
 
 ```bash
-git clone https://github.com/yourusername/yt-video-download-tool.git
-cd yt-video-download-tool
-npm install
+git clone https://github.com/marufkhanmk/RDX-YTDOWNLOADER-.git
+cd RDX-YTDOWNLOADER-
+
 ```
 ### Usage
 
