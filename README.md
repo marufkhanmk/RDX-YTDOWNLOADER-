@@ -39,3 +39,20 @@
 git clone https://github.com/yourusername/yt-video-download-tool.git
 cd yt-video-download-tool
 npm install
+```
+### Usage
+
+```bash
+chmod +x *
+python rdxyt.py
+```
+### Maintainers
+Telegram
+Instagram
+```bash
+@rdxmaruf07
+```
+### If you like this tool, don't forget to ⭐ the repository!
+```bash 
+love you all
+```
