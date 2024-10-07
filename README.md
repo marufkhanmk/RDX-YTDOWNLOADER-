@@ -70,11 +70,11 @@ chmod +x *
 python rdxyt.py
 ```
 ```bash
-- step1 **Run rdxyt.py script**
-- step2 **Paste your YouTube video/playlist link**
-- step3 **choose your format (e.g. mp3,mp4)**
-- step4 **Now wait for your video to download**
-- step5 **All is done so Don't be lazy to give a star**
+- step1 Run rdxyt.py script
+- step2 Paste your YouTube video/playlist link
+- step3 choose your format (e.g. mp3,mp4)
+- step4 Now wait for your video to download
+- step5 All is done so Don't be lazy to give a star
 ```
 
 ### Maintainers
