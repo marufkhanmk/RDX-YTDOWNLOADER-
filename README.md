@@ -1,65 +1,41 @@
-🎥 YouTube Video Downloader Tool 🌐
+<p align="center">
+  <img src="./assets/logo.png" alt="YouTube Video Downloader Logo" width="300">
+</p>
 
-Welcome to the YouTube Video Downloader Tool! 🚀 This powerful and easy-to-use command-line utility allows you to download YouTube videos with style and speed. Whether you're a developer looking for a seamless way to save videos for offline viewing or just want a sleek tool with flair, this project has you covered! ⚡
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE%20IN-INDIA-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge">
+</p>
 
-✨ Features:
+<p align="center">
+  <img src="https://img.shields.io/badge/Written%20In-Node.js-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkviolet?style=flat-square">
+  <img src="https://img.shields.io/github/stars/yourusername/yt-video-download-tool?style=flat-square">
+  <img src="https://img.shields.io/github/issues/yourusername/yt-video-download-tool?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/yourusername/yt-video-download-tool?color=teal&style=flat-square">
+</p>
 
-Blazing Fast Downloads ⚡: Get your favorite videos in just a few clicks.
+<p align="center"><b>Download YouTube videos in multiple formats with ease and style!</b></p>
 
-Multiple Formats 📀: Download in a variety of formats like MP4, MP3, and more!
+---
 
-Customizable Resolutions 🎞️: Select video quality from 360p to 4K – you decide!
+### Features
 
-Slick CLI Animation 🎨: Enjoy smooth animations while your download is in progress, adding style to your terminal!
+- ⚡ **Blazing Fast Downloads**
+- 🎥 **Multiple Formats**: MP4, MP3, and more.
+- 📽️ **Custom Resolutions**: From 360p to 4K.
+- 📂 **Batch Download Support**: Download entire playlists at once.
+- 💫 **Slick Animated CLI Interface**.
+- ⏸️ **Pause and Resume Downloads**.
 
-Pause and Resume ⏯️: Pause your downloads and resume them later with ease.
+---
 
-Batch Downloads 📁: Download entire playlists or multiple videos in one go!
+### Installation
 
+1. Install [Node.js](https://nodejs.org).
+2. Clone the repository & run the setup commands.
 
-🛠️ How It Works:
-
-Using this tool is as easy as pie. 🍰 Simply run the script, provide the YouTube video link, and you're ready to go!
-
-rdxyt.py 
-
-Watch the magic happen as your video downloads with slick, animated progress bars and status updates! 🎬
-
-📥 Installation
-
-1. Clone the repository:
-
-
-
+```bash
 git clone https://github.com/yourusername/yt-video-download-tool.git
 cd yt-video-download-tool
-
-2. Install dependencies:
-
-
-
 npm install
-
-3. Start downloading videos:
-
-
-
-npm start <video-url>
-
-💻 Technology Stack
-
-Node.js 🟢
-
-Inquirer.js for stylish user prompts and animations
-
-ytdl-core for high-performance video fetching
-
-
-📷 Preview
-
-
-
-🤝 Contributing
-
-Contributions are welcome! Check out our contributing guide for more details 
-
