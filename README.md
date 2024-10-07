@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="YouTube Video Downloader Logo" width="300">
+  <img src="./logo.jpg" alt="YouTube Video Downloader Logo" width="300">
 </p>
 
 <p align="center">
